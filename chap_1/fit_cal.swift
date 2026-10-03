@@ -1,5 +1,7 @@
 //Level 2: Combine Everything
 //Now you're going to build a tiny fitness calculator.
+//This program calculates the distance walked, calories burned, and progress towards a step goal based on user input. It uses functions to perform calculations and displays a summary of the user's fitness activity.
+
 /*Create:
 let name = "Shiva"
 let steps = 7500

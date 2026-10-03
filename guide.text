@@ -1,0 +1,17 @@
+1. Read problem
+       ↓
+2. Explain it in your own words
+       ↓
+3. Write example input
+       ↓
+4. Write expected output
+       ↓
+5. Think of the steps
+       ↓
+6. Write Swift
+       ↓
+7. Test with 3 different inputs
+       ↓
+8. Break it deliberately
+       ↓
+9. Fix it

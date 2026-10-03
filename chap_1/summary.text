@@ -1,0 +1,55 @@
+DAY 1
+│
+├── let / var
+├── String
+├── Int
+├── Double
+├── Bool
+│
+├── 10 tiny problems
+│
+DAY 2
+│
+├── if
+├── else
+├── comparisons
+├── logical operators
+│
+├── 10 problems
+│
+DAY 3
+│
+├── switch
+├── for
+├── while
+│
+├── 15 problems
+│
+DAY 4
+│
+├── Functions
+├── Parameters
+├── Return values
+│
+├── 15 problems
+│
+DAY 5
+│
+├── calculateDistance()
+├── calculateCalories()
+├── calculateProgress()
+│
+├── 15 problems
+│
+DAY 6
+│
+├── Arrays
+├── Loops + Arrays
+├── Searching
+├── Counting
+│
+├── 15 problems
+│
+DAY 7
+│
+└── 🏆 Mini Fitness Tracker
